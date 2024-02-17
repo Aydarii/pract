@@ -1,0 +1,13 @@
+﻿<Window x:Class="pract.Корзина"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pract"
+        mc:Ignorable="d"
+        Title="Корзина" Height="470" Width="800" Background="#778FD2">
+    <Grid>
+        <Button Content="Назад" FontSize="20" FontWeight="Bold" BorderThickness="4" BorderBrush="Black" Margin="644,387,10,10" Click="Button_Click" Background="#B7CB99"/>
+
+    </Grid>
+</Window>
